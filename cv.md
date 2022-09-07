@@ -52,4 +52,10 @@ return a*b
 Specialist degree, Tajik State University of Law, Business and Politics
 * Faculty of Law
 
+**Languages**
+-------------
+* Russian (Advanced)
+* English (Advanced)
+* Tajik (Native)
+* Uzbek (Advanced)
 
